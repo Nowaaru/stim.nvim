@@ -1,0 +1,26 @@
+{
+  "name": "probe",
+  "version": "1.0.0",
+  "description": "The Probe.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "buttplug": "^3.2.2",
+    "fast-levenshtein": "^3.0.0",
+    "neovim": "^5.1.0"
+  },
+  "devDependencies": {
+    "@types/levenshtein": "^1.0.4",
+    "@types/node": "^20.12.11",
+    "@typescript-eslint/eslint-plugin": "^7.8.0",
+    "@typescript-eslint/parser": "^7.8.0",
+    "eslint": "^8.57.0",
+    "globals": "^15.1.0",
+    "typescript": "^5.4.5",
+    "typescript-eslint": "^7.8.0"
+  }
+}
