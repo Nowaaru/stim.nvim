@@ -152,7 +152,7 @@ namespace Device {
             })
             // Remove all actuators that don't actually
             // exist on the device
-            .filter((_, k) => k <= this.actuatorCount)
+            .filter((_, k) => k < this.actuatorCount)
         : Array<number>(
             ranges ?? this.actuatorCount,
             attributeList[0].StepCount,
