@@ -74,4 +74,4 @@ under the sun. I would deeply appreciate it if those that <i>do</i> extended the
 <br />
 I apologize for the lack of cohesion, but I tried to do my best with the resources I had. The emittable <code>import</code> syntax does not work and changing the <code>main</code> file past top-level can completely break the Node client. Thus, the source directory and the output directory must be in the same place and code that serves a certain, special purpose must be contained in a namespace.
 <hr />
-<h6><sub><sub>Heavily inspired by <a href=https://marketplace.visualstudio.com/items?itemName=UncensorPat.prohe/>PROHE</a> by <a href="https://marketplace.visualstudio.com/publishers/UncensorPat">UncensorPat</a>.</h6></sub></sub>
+<h6><sup><sup>Heavily inspired by <a href=https://marketplace.visualstudio.com/items?itemName=UncensorPat.prohe/>PROHE</a> by <a href="https://marketplace.visualstudio.com/publishers/UncensorPat">UncensorPat</a>.</h6></sup></sup>
